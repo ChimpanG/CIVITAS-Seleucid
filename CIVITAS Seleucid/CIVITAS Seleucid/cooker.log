@@ -1,0 +1,11 @@
+Starting AssetCooker...
+XLP cook starting...
+\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucid\XLPs\Units.xlp
+Opened output file: C:\Users\Sam\Documents\My Games\Sid Meier's Civilization VI\Mods\CIVITAS Seleucid\Platforms\MacOS\BLPs/units/units.blp    For XLP: '\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucid\XLPs\Units.xlp'
+Starting 'units/units'
+Load finished for: 'units/units' in 1.652 seconds
+Cook finished for: 'units/units' in 0.002 seconds
+Disk write finished for: 'units/units' in 0.044 seconds
+Cleanup finished for: 'units/units' in 0.012 seconds
+XLP cook completed with success.
+Cook completed in 1.873 seconds

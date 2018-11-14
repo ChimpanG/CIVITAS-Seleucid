@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/units"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Argyraspides_ShieldE"/>
+			<m_ObjectName text="Argyraspides_ShieldE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Argyraspides_ArmorA"/>
+			<m_ObjectName text="Argyraspides_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="KataphraktoiDriver_ArmorA"/>
+			<m_ObjectName text="KataphraktoiDriver_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="KataphraktoiElephantA"/>
+			<m_ObjectName text="KataphraktoiElephantA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="KataphraktoiRider_ArmorA"/>
+			<m_ObjectName text="KataphraktoiRider_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="KataphraktoiRider_ArmorB"/>
+			<m_ObjectName text="KataphraktoiRider_ArmorB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Kataphraktoi_HelmA"/>
+			<m_ObjectName text="Kataphraktoi_HelmA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantarchiaDriver_ArmorA"/>
+			<m_ObjectName text="ElephantarchiaDriver_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantarchiaRider_ArmorA"/>
+			<m_ObjectName text="ElephantarchiaRider_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantarchiaRider_ArmorB"/>
+			<m_ObjectName text="ElephantarchiaRider_ArmorB"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
