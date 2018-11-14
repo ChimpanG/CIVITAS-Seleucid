@@ -64,16 +64,16 @@ function CVS_Antiochus_UA(newPlayerID, oldPlayerID, cityID, iX, iY)
 		local pCityBuildings = pCity:GetBuildings()
 
 		if tTraitPlayers[newPlayerID] then
-			print("Player has trait")
+			--print("Player has trait")
 			local pPlot = Map.GetPlot(iX, iY)
 			local iPlot = pPlot:GetIndex()
 			pCity:GetBuildQueue():CreateIncompleteBuilding(iDummy, iPlot, 100)
-			print ("Dummy placed")
+			--print ("Dummy placed")
 		else
-			print("Player does not have trait")
+			--print("Player does not have trait")
 			if pCityBuildings:HasBuilding(iDummy) then
 				pCityBuildings:RemoveBuilding(iDummy)
-				print ("Dummy removed")
+				--print ("Dummy removed")
 			end
 		end
 	end
