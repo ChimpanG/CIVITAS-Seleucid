@@ -1,0 +1,13 @@
+Starting AssetCooker...
+OPENCL ACCELERATION IS NOT AVAILABLE!  Your cooks will be SLOOOOWWW!  Please inform an engineer.
+XLP cook starting...
+\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Antiochus III\XLPs\LeaderFallback.xlp
+Opened output file: D:\Documents\my games\Sid Meier's Civilization VI\Mods\Mods\CIVITAS Antiochus III\Platforms\MacOS\BLPs/LeaderFallback.blp    For XLP: '\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Antiochus III\XLPs\LeaderFallback.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'LeaderFallback'
+Load finished for: 'LeaderFallback' in 0.003 seconds
+Cook finished for: 'LeaderFallback' in 0.000 seconds
+Disk write finished for: 'LeaderFallback' in 0.067 seconds
+Cleanup finished for: 'LeaderFallback' in 0.000 seconds
+XLP cook completed with success.
+Cook completed in 0.100 seconds

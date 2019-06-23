@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_ClassName text="UITexture"/>
 	<m_PackageName text="UI/Icons"/>
@@ -48,54 +48,6 @@
 		<Element>
 			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_UU_PORTRAIT_95"/>
 			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_UU_PORTRAIT_95"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_BACKGROUND"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_BACKGROUND"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_NEUTRAL"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_NEUTRAL"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_200"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_200"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_256"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_38"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_38"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_50"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_70"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_70"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_95"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_PORTRAIT_95"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_ICON_22"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_ICON_22"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_ICON_256"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_ICON_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_ICON_32"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_ICON_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_UU_ICON_80"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_UU_ICON_80"/>
 		</Element>
 		<Element>
 			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_UI_ICON_128"/>
@@ -150,62 +102,6 @@
 			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_UP_ICON_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="CVS_SELEUCUS_I_1"/>
-			<m_ObjectName text="CVS_SELEUCUS_I_1"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CVS_SELEUCUS_I_4"/>
-			<m_ObjectName text="CVS_SELEUCUS_I_4"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_FONTICON"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_FONTICON"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CVS_SELEUCID_CIVITAS"/>
-			<m_ObjectName text="CVS_SELEUCID_CIVITAS"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_22"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_22"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_256"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_30"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_30"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_36"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_36"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_44"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_44"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_48"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_48"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_50"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_64"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_64"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_CS_ICON_80"/>
-			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_CS_ICON_80"/>
-		</Element>
-		<Element>
-			<m_EntryID text="MOMENT_CVS_SELEUCUS_I_UU"/>
-			<m_ObjectName text="MOMENT_CVS_SELEUCUS_I_UU"/>
-		</Element>
-		<Element>
 			<m_EntryID text="MOMENT_CVS_SELEUCID_UI"/>
 			<m_ObjectName text="MOMENT_CVS_SELEUCID_UI"/>
 		</Element>
@@ -248,94 +144,6 @@
 		<Element>
 			<m_EntryID text="CIVILIZATION_CVS_SELEUCID_ICON_80"/>
 			<m_ObjectName text="CIVILIZATION_CVS_SELEUCID_ICON_80"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_BACKGROUND"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_BACKGROUND"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_ICON_256"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_ICON_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_ICON_45"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_ICON_45"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_NEUTRAL"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_NEUTRAL"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_256"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_32"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_45"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_45"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_50"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_55"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_55"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_64"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_64"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_80"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_PORTRAIT_80"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_ICON_256"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_ICON_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_ANTIOCHUS_III_ICON_45"/>
-			<m_ObjectName text="LEADER_CVS_ANTIOCHUS_III_ICON_45"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_256"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_32"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_45"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_45"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_50"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_55"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_55"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_64"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_64"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_CVS_SELEUCUS_I_PORTRAIT_80"/>
-			<m_ObjectName text="LEADER_CVS_SELEUCUS_I_PORTRAIT_80"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CVS_ANTIOCHUS_III_1"/>
-			<m_ObjectName text="CVS_ANTIOCHUS_III_1"/>
-		</Element>
-		<Element>
-			<m_EntryID text="CVS_ANTIOCHUS_III_4"/>
-			<m_ObjectName text="CVS_ANTIOCHUS_III_4"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

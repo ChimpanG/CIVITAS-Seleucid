@@ -466,3 +466,174 @@
 		<Element>
 			<libraryName text="CityBuildings"/>
 			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="ColorKey"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="DynamicGeometry"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="FOWSprite"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="FOWTexture"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="GameLighting"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Landmark"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Leader"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="LeaderFallback"/>
+			<relativePackagePaths>
+				<Element text="LeaderFallbacks"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="LeaderLighting"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Light"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="OverlayTexture"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="RouteDecalMaterial"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="RouteDoodad"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="SkyBoxTexture"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_DirectedAsset"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_Route"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_Sprite"/>
+			<relativePackagePaths>
+				<Element text="strategicview/strategicview_districts"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_TerrainBlend"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_TerrainBlendCorners"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="StrategicView_TerrainType"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="TerrainAsset"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="TerrainElement"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="TerrainMaterial"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="TileBase"/>
+			<relativePackagePaths>
+				<Element text="landmarks/tilebases"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="UILensAsset"/>
+			<relativePackagePaths>
+				<Element text="UI/LensAssets"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="UITexture"/>
+			<relativePackagePaths>
+				<Element text="UI/Icons"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Unit"/>
+			<relativePackagePaths>
+				<Element text="units/units"/>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="VFX"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Water"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="Wave"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+		<Element>
+			<libraryName text="WonderMovie"/>
+			<relativePackagePaths>
+			</relativePackagePaths>
+		</Element>
+	</gameLibraries>
+	<requiredGameArtIDs>
+		<Element>
+			<name text="Civ6"/>
+			<id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
+		</Element>
+	</requiredGameArtIDs>
+</AssetObjects::GameArtSpecification>
