@@ -493,7 +493,9 @@
 		</Element>
 		<Element>
 			<libraryName text="Unit"/>
-			<relativePackagePaths/>
+			<relativePackagePaths>
+				<Element text="units/units"/>
+			</relativePackagePaths>
 		</Element>
 		<Element>
 			<libraryName text="VFX"/>

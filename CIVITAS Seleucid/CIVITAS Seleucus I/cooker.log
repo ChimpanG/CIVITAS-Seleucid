@@ -1,13 +1,13 @@
 Starting AssetCooker...
 OPENCL ACCELERATION IS NOT AVAILABLE!  Your cooks will be SLOOOOWWW!  Please inform an engineer.
 XLP cook starting...
-\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucus I\XLPs\LeaderFallback.xlp
-Opened output file: D:\Documents\my games\Sid Meier's Civilization VI\Mods\Mods\CIVITAS Seleucus I\Platforms\MacOS\BLPs/LeaderFallbacks.blp    For XLP: '\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucus I\XLPs\LeaderFallback.xlp'
+\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucus I\XLPs\Units.xlp
+Opened output file: D:\Documents\my games\Sid Meier's Civilization VI\Mods\Mods\CIVITAS Seleucus I\Platforms\MacOS\BLPs/units/units.blp    For XLP: '\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucus I\XLPs\Units.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
-Starting 'LeaderFallbacks'
-Load finished for: 'LeaderFallbacks' in 0.003 seconds
-Cook finished for: 'LeaderFallbacks' in 0.000 seconds
-Disk write finished for: 'LeaderFallbacks' in 0.058 seconds
-Cleanup finished for: 'LeaderFallbacks' in 0.000 seconds
+Starting 'units/units'
+Load finished for: 'units/units' in 0.768 seconds
+Cook finished for: 'units/units' in 0.002 seconds
+Disk write finished for: 'units/units' in 0.187 seconds
+Cleanup finished for: 'units/units' in 0.004 seconds
 XLP cook completed with success.
-Cook completed in 0.087 seconds
+Cook completed in 1.018 seconds
