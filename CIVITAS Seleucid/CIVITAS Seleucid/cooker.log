@@ -5,9 +5,9 @@ XLP cook starting...
 Opened output file: D:\Documents\my games\Sid Meier's Civilization VI\Mods\Mods\CIVITAS Seleucid\Platforms\MacOS\BLPs/units/units.blp    For XLP: '\\WDMYCLOUD\Sam\Projects\Modding\Civ VI\IdeaProjects\GitHub\CIVITAS-Seleucid\CIVITAS Seleucid\CIVITAS Seleucid\XLPs\Units.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'units/units'
-Load finished for: 'units/units' in 2.050 seconds
+Load finished for: 'units/units' in 0.625 seconds
 Cook finished for: 'units/units' in 0.001 seconds
-Disk write finished for: 'units/units' in 0.153 seconds
+Disk write finished for: 'units/units' in 0.181 seconds
 Cleanup finished for: 'units/units' in 0.002 seconds
 XLP cook completed with success.
-Cook completed in 3.619 seconds
+Cook completed in 0.838 seconds
