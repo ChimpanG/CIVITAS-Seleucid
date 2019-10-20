@@ -94,7 +94,7 @@ SELECT	'UNIT_CVS_SELEUCUS_I_UU',	-- UnitType
 		PromotionClass,
 		Maintenance + 1, -- Maintenance
 		MandatoryObsoleteTech,
-		PrereqTech,
+		NULL, -- PrereqTech
 		'CIVIC_MILITARY_TRAINING' -- PrereqCivic
 FROM	Units
 WHERE	UnitType = 'UNIT_KNIGHT';
