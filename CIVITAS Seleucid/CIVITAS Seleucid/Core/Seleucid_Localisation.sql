@@ -71,6 +71,24 @@ VALUES
 	("en_US",	"LOC_NAMED_RIVER_OXUS",				"Oxus River"	),
 
 -----------------------------------------------
+-- Lakes
+-----------------------------------------------
+
+	("en_US",	"LOC_NAMED_LAKE_SAWA",				"Lake Sawa"			),
+	("en_US",	"LOC_NAMED_LAKE_ZREBAR",			"Zrebar Lake"		),
+	("en_US",	"LOC_NAMED_LAKE_SHORABIL",			"Shorabil Lake"		),
+	("en_US",	"LOC_NAMED_LAKE_ALENDAN",			"Alendan Lake"		),
+	("en_US",	"LOC_NAMED_LAKE_KEEYOW",			"Keeyow Lake"		),
+	("en_US",	"LOC_NAMED_LAKE_OVAN",				"Ovan Lake"			),
+
+-----------------------------------------------
+-- Seas
+-----------------------------------------------
+
+	("en_US",	"LOC_NAMED_SEA_STRAIT_OF_HORMUZ",	"Strait of Hormuz"	),
+	("en_US",	"LOC_NAMED_SEA_CILICIAN_SEA",		"Cilician Sea"		),
+
+-----------------------------------------------
 -- Cities
 -----------------------------------------------
 

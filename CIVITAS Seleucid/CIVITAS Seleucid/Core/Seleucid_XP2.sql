@@ -66,3 +66,56 @@ VALUES	('CIVILIZATION_CVS_SELEUCID',	'NAMED_RIVER_ARVAND_RUD'	),
 		('CIVILIZATION_CVS_SELEUCID',	'NAMED_RIVER_EUPHRATES'		),
 		('CIVILIZATION_CVS_SELEUCID',	'NAMED_RIVER_OXUS'			),
 		('CIVILIZATION_CVS_SELEUCID',	'NAMED_RIVER_SYR_DARYA'		);
+
+-----------------------------------------------
+-- NamedLakes
+-----------------------------------------------
+
+REPLACE INTO NamedLakes
+		(NamedLakeType,			Name						)
+VALUES	('NAMED_LAKE_SAWA',		'LOC_NAMED_LAKE_SAWA'		),
+		('NAMED_LAKE_ZREBAR',	'LOC_NAMED_LAKE_ZREBAR'		),
+		('NAMED_LAKE_SHORABIL',	'LOC_NAMED_LAKE_SHORABIL'	),
+		('NAMED_LAKE_ALENDAN',	'LOC_NAMED_LAKE_ALENDAN'	),
+		('NAMED_LAKE_KEEYOW',	'LOC_NAMED_LAKE_KEEYOW'		),
+		('NAMED_LAKE_OVAN',		'LOC_NAMED_LAKE_OVAN'		);
+
+-----------------------------------------------
+-- NamedLakeCivilizations
+-----------------------------------------------
+
+INSERT INTO NamedLakeCivilizations
+		(CivilizationType,				NamedLakeType					)
+VALUES	('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_LAKE_HABBANIYAH'	),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_LAKE_HAMMAR'		),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_SAWA'				),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_LAKE_URMIA'			),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_ZREBAR'				),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_SHORABIL'			),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_ALENDAN'			),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_KEEYOW'				),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_LAKE_OVAN'				);
+
+-----------------------------------------------
+-- NamedSeas
+-----------------------------------------------
+
+REPLACE INTO NamedSeas
+		(NamedSeaType,					Name								)
+VALUES	('NAMED_SEA_STRAIT_OF_HORMUZ',	'LOC_NAMED_SEA_STRAIT_OF_HORMUZ'	),
+		('NAMED_SEA_CILICIAN_SEA',		'LOC_NAMED_SEA_CILICIAN_SEA'		);
+
+-----------------------------------------------
+-- NamedSeaCivilizations
+-----------------------------------------------
+
+INSERT INTO NamedSeaCivilizations
+		(CivilizationType,				NamedSeaType					)
+VALUES	('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_MEDITERRANEAN_SEA'	),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_PERSIAN_GULF'		),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_CASPIAN_SEA'			),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_LEVANTINE_SEA'		),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_ARABIAN_SEA'			),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_STRAIT_OF_HORMUZ'	),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_GULF_OF_OMAN'		),
+		('CIVILIZATION_CVS_SELEUCID',	'NAMED_SEA_CILICIAN_SEA'		);
