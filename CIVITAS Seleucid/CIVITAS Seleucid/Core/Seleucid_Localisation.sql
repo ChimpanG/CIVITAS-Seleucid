@@ -43,7 +43,7 @@ VALUES
 
 	("en_US",	"LOC_DISTRICT_CVS_SELEUCID_UI_NAME",		"Agora"	),
 	("en_US",	"LOC_DISTRICT_CVS_SELEUCID_UI_DESCRIPTION",		
-	"A Commercial Hub replacement unique to Seleucid. Receives +1 [ICON_GOLD] Gold from adjacent Farms and Pastures. Provides +1 [ICON_FOOD] Food for each building constructed within it on domestic [ICON_TRADEROUTE] Trade Routes to this city, and +1 [ICON_PRODUCTION] Production on international [ICON_TRADEROUTE] Trade Routes from this city."	),
+	"A Commercial Hub replacement unique to Seleucid. +1 [ICON_GREATGENERAL] Great General points per turn. Receives +1 [ICON_GOLD] Gold from adjacent Farms and Pastures. Provides +1 [ICON_FOOD] Food for each building constructed within it on domestic [ICON_TRADEROUTE] Trade Routes to this city, and +1 [ICON_PRODUCTION] Production on international [ICON_TRADEROUTE] Trade Routes from this city."	),
 
 	("en_US",	"ADJ_CVS_SELEUCID_UI_FARM_GOLD",		"+{1_num} [ICON_GOLD] Gold from the adjacent {1_Num : plural 1?Farm; other?Farms;}."		),
 	("en_US",	"ADJ_CVS_SELEUCID_UI_PASTURE_GOLD",		"+{1_num} [ICON_GOLD] Gold from the adjacent {1_Num : plural 1?Pasture; other?Pastures;}."	),
